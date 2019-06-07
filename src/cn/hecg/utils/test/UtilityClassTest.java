@@ -10,6 +10,7 @@ import cn.hecg.utils.UtilityClass;
  */
 public class UtilityClassTest {
 	public static void main(String[] args) {
+		System.out.println("error...");
 		UtilityClass.say("hello world");
 	}
 }
